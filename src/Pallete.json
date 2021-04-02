@@ -1,0 +1,1326 @@
+[
+  {
+    "name": "IndianRed",
+    "tone": "red",
+    "hex": "#CD5C5C",
+    "rgb": {
+      "red": 205,
+      "green": 92,
+      "blue": 92
+    }
+  }, {
+  "name": "LightCoral",
+  "tone": "red",
+  "hex": "#F08080",
+  "rgb": {
+    "red": 240,
+    "green": 128,
+    "blue": 128
+  }
+}, {
+  "name": "Salmon",
+  "tone": "red",
+  "hex": "#FA8072",
+  "rgb": {
+    "red": 250,
+    "green": 128,
+    "blue": 114
+  }
+}, {
+  "name": "DarkSalmon",
+  "tone": "red",
+  "hex": "#E9967A",
+  "rgb": {
+    "red": 233,
+    "green": 150,
+    "blue": 122
+  }
+}, {
+  "name": "LightSalmon",
+  "tone": "red",
+  "hex": "#FFA07A",
+  "rgb": {
+    "red": 255,
+    "green": 160,
+    "blue": 122
+  }
+}, {
+  "name": "Crimson",
+  "tone": "red",
+  "hex": "#DC143C",
+  "rgb": {
+    "red": 220,
+    "green": 20,
+    "blue": 60
+  }
+}, {
+  "name": "Red",
+  "tone": "red",
+  "hex": "#DC143C",
+  "rgb": {
+    "red": 255,
+    "green": 0,
+    "blue": 0
+  }
+}, {
+  "name": "FireBrick",
+  "tone": "red",
+  "hex": "#B22222",
+  "rgb": {
+    "red": 178,
+    "green": 34,
+    "blue": 34
+  }
+}, {
+  "name": "DarkRed",
+  "tone": "red",
+  "hex": "#8B0000",
+  "rgb": {
+    "red": 139,
+    "green": 0,
+    "blue": 0
+  }
+}, {
+  "name": "Pink",
+  "tone": "pink",
+  "hex": "#FFC0CB",
+  "rgb": {
+    "red": 255,
+    "green": 192,
+    "blue": 203
+  }
+}, {
+  "name": "LightPink",
+  "tone": "pink",
+  "hex": "#FFB6C1",
+  "rgb": {
+    "red": 255,
+    "green": 182,
+    "blue": 193
+  }
+}, {
+  "name": "HotPink",
+  "tone": "pink",
+  "hex": "#FF69B4",
+  "rgb": {
+    "red": 255,
+    "green": 182,
+    "blue": 193
+  }
+}, {
+  "name": "DeepPink",
+  "tone": "pink",
+  "hex": "#FF1493",
+  "rgb": {
+    "red": 255,
+    "green": 20,
+    "blue": 147
+  }
+}, {
+  "name": "MediumVioletRed",
+  "tone": "pink",
+  "hex": "#C71585",
+  "rgb": {
+    "red": 199,
+    "green": 21,
+    "blue": 133
+  }
+}, {
+  "name": "PaleVioletRed",
+  "tone": "pink",
+  "hex": "#DB7093",
+  "rgb": {
+    "red": 219,
+    "green": 112,
+    "blue": 147
+  }
+}, {
+  "name": "LightSalmon",
+  "tone": "orange",
+  "hex": "#FFA07A",
+  "rgb": {
+    "red": "255",
+    "green": "160",
+    "blue": "122"
+  }
+}, {
+  "name": "Coral",
+  "tone": "orange",
+  "hex": "#FF7F50",
+  "rgb": {
+    "red": "255",
+    "green": "127",
+    "blue": "80"
+  }
+}, {
+  "name": "Tomato",
+  "tone": "orange",
+  "hex": "#FF6347",
+  "rgb": {
+    "red": "255",
+    "green": "99",
+    "blue": "71"
+  }
+}, {
+  "name": "OrangeRed",
+  "tone": "orange",
+  "hex": "#FF4500",
+  "rgb": {
+    "red": "255",
+    "green": "69",
+    "blue": "0"
+  }
+}, {
+  "name": "DarkOrange",
+  "tone": "orange",
+  "hex": "#FF8C00",
+  "rgb": {
+    "red": "255",
+    "green": "140",
+    "blue": "0"
+  }
+}, {
+  "name": "Orange",
+  "tone": "orange",
+  "hex": "#FFA500",
+  "rgb": {
+    "red": "255",
+    "green": "165",
+    "blue": "0"
+  }
+}, {
+  "name": "Gold",
+  "tone": "yellow",
+  "hex": "#FFD700",
+  "rgb": {
+    "red": "255",
+    "green": "215",
+    "blue": "0"
+  }
+}, {
+  "name": "Yellow",
+  "tone": "yellow",
+  "hex": "#FFFF00",
+  "rgb": {
+    "red": "255",
+    "green": "255",
+    "blue": "0"
+  }
+}, {
+  "name": "LightYellow",
+  "tone": "yellow",
+  "hex": "#FFFFE0",
+  "rgb": {
+    "red": "255",
+    "green": "255",
+    "blue": "224"
+  }
+}, {
+  "name": "LemonChiffon",
+  "tone": "yellow",
+  "hex": "#FFFACD",
+  "rgb": {
+    "red": "255",
+    "green": "250",
+    "blue": "205"
+  }
+}, {
+  "name": "LightGoldenrodYellow",
+  "tone": "yellow",
+  "hex": "#FAFAD2",
+  "rgb": {
+    "red": "250",
+    "green": "250",
+    "blue": "210"
+  }
+}, {
+  "name": "PapayaWhip",
+  "tone": "yellow",
+  "hex": "#FFEFD5",
+  "rgb": {
+    "red": "255",
+    "green": "239",
+    "blue": "213"
+  }
+}, {
+  "name": "Moccasin",
+  "tone": "yellow",
+  "hex": "#FFE4B5",
+  "rgb": {
+    "red": "255",
+    "green": "228",
+    "blue": "181"
+  }
+}, {
+  "name": "PeachPuff",
+  "tone": "yellow",
+  "hex": "#FFDAB9",
+  "rgb": {
+    "red": "255",
+    "green": "218",
+    "blue": "185"
+  }
+}, {
+  "name": "PaleGoldenrod",
+  "tone": "yellow",
+  "hex": "#EEE8AA",
+  "rgb": {
+    "red": "238",
+    "green": "232",
+    "blue": "170"
+  }
+}, {
+  "name": "Khaki",
+  "tone": "yellow",
+  "hex": "#F0E68C",
+  "rgb": {
+    "red": "240",
+    "green": "230",
+    "blue": "140"
+  }
+}, {
+  "name": "DarkKhaki",
+  "tone": "yellow",
+  "hex": "#BDB76B",
+  "rgb": {
+    "red": "189",
+    "green": "183",
+    "blue": "107"
+  }
+}, {
+  "name": "Lavender",
+  "tone": "violet",
+  "hex": "#E6E6FA",
+  "rgb": {
+    "red": "230",
+    "green": "230",
+    "blue": "250"
+  }
+}, {
+  "name": "Thistle",
+  "tone": "violet",
+  "hex": "#D8BFD8",
+  "rgb": {
+    "red": "216",
+    "green": "191",
+    "blue": "216"
+  }
+}, {
+  "name": "Plum",
+  "tone": "violet",
+  "hex": "#DDA0DD",
+  "rgb": {
+    "red": "221",
+    "green": "160",
+    "blue": "221"
+  }
+}, {
+  "name": "Violet",
+  "tone": "violet",
+  "hex": "#EE82EE",
+  "rgb": {
+    "red": "238",
+    "green": "130",
+    "blue": "238"
+  }
+}, {
+  "name": "Orchid",
+  "tone": "violet",
+  "hex": "#DA70D6",
+  "rgb": {
+    "red": "218",
+    "green": "112",
+    "blue": "214"
+  }
+}, {
+  "name": "Fuchsia",
+  "tone": "violet",
+  "hex": "#FF00FF",
+  "rgb": {
+    "red": "255",
+    "green": "0",
+    "blue": "255"
+  }
+}, {
+  "name": "Magenta",
+  "tone": "violet",
+  "hex": "#FF00FF",
+  "rgb": {
+    "red": "255",
+    "green": "0",
+    "blue": "255"
+  }
+}, {
+  "name": "MediumOrchid",
+  "tone": "violet",
+  "hex": "#BA55D3",
+  "rgb": {
+    "red": "186",
+    "green": "85",
+    "blue": "211"
+  }
+}, {
+  "name": "MediumPurple",
+  "tone": "violet",
+  "hex": "#9370DB",
+  "rgb": {
+    "red": "147",
+    "green": "112",
+    "blue": "219"
+  }
+}, {
+  "name": "BlueViolet",
+  "tone": "violet",
+  "hex": "#8A2BE2",
+  "rgb": {
+    "red": "138",
+    "green": "43",
+    "blue": "226"
+  }
+}, {
+  "name": "DarkViolet",
+  "tone": "violet",
+  "hex": "#9400D3",
+  "rgb": {
+    "red": "148",
+    "green": "0",
+    "blue": "211"
+  }
+}, {
+  "name": "DarkOrchid",
+  "tone": "violet",
+  "hex": "#9932CC",
+  "rgb": {
+    "red": "153",
+    "green": "50",
+    "blue": "204"
+  }
+}, {
+  "name": "DarkMagenta",
+  "tone": "violet",
+  "hex": "#8B008B",
+  "rgb": {
+    "red": "139",
+    "green": "0",
+    "blue": "139"
+  }
+}, {
+  "name": "Purple",
+  "tone": "violet",
+  "hex": "#800080",
+  "rgb": {
+    "red": "128",
+    "green": "0",
+    "blue": "128"
+  }
+}, {
+  "name": "Indigo",
+  "tone": "violet",
+  "hex": "#4B0082",
+  "rgb": {
+    "red": "75",
+    "green": "0",
+    "blue": "130"
+  }
+}, {
+  "name": "SlateBlue",
+  "tone": "violet",
+  "hex": "#6A5ACD",
+  "rgb": {
+    "red": "106",
+    "green": "90",
+    "blue": ""
+  }
+}, {
+  "name": "DarkSlateBlue",
+  "tone": "violet",
+  "hex": "#483D8B",
+  "rgb": {
+    "red": "72",
+    "green": "61",
+    "blue": "139"
+  }
+}, {
+  "name": "Cornsilk",
+  "tone": "brawn",
+  "hex": "#FFF8DC",
+  "rgb": {
+    "red": "255",
+    "green": "248",
+    "blue": "220"
+  }
+}, {
+  "name": "BlanchedAlmond",
+  "tone": "brawn",
+  "hex": "#FFEBCD",
+  "rgb": {
+    "red": "255",
+    "green": "235",
+    "blue": "205"
+  }
+}, {
+  "name": "Bisque",
+  "tone": "brawn",
+  "hex": "#FFE4C4",
+  "rgb": {
+    "red": "255",
+    "green": "228",
+    "blue": "196"
+  }
+}, {
+  "name": "NavajoWhite",
+  "tone": "brawn",
+  "hex": "#FFDEAD",
+  "rgb": {
+    "red": "255",
+    "green": "222",
+    "blue": "173"
+  }
+}, {
+  "name": "Wheat",
+  "tone": "brawn",
+  "hex": "#F5DEB3",
+  "rgb": {
+    "red": "245",
+    "green": "222",
+    "blue": "179"
+  }
+}, {
+  "name": "BurlyWood",
+  "tone": "brawn",
+  "hex": "#DEB887",
+  "rgb": {
+    "red": "222",
+    "green": "184",
+    "blue": "135"
+  }
+}, {
+  "name": "Tan",
+  "tone": "brawn",
+  "hex": "#D2B48C",
+  "rgb": {
+    "red": "210",
+    "green": "180",
+    "blue": "140"
+  }
+}, {
+  "name": "RosyBrown",
+  "tone": "brawn",
+  "hex": "#BC8F8F",
+  "rgb": {
+    "red": "188",
+    "green": "143",
+    "blue": "143"
+  }
+}, {
+  "name": "SandyBrown",
+  "tone": "brawn",
+  "hex": "#F4A460",
+  "rgb": {
+    "red": "244",
+    "green": "164",
+    "blue": "96"
+  }
+}, {
+  "name": "Goldenrod",
+  "tone": "brawn",
+  "hex": "#DAA520",
+  "rgb": {
+    "red": "218",
+    "green": "165",
+    "blue": "32"
+  }
+}, {
+  "name": "DarkGoldenRod",
+  "tone": "brawn",
+  "hex": "#B8860B",
+  "rgb": {
+    "red": "184",
+    "green": "134",
+    "blue": "11"
+  }
+}, {
+  "name": "Peru",
+  "tone": "brawn",
+  "hex": "#CD853F",
+  "rgb": {
+    "red": "205",
+    "green": "133",
+    "blue": "63"
+  }
+}, {
+  "name": "Chocolate",
+  "tone": "brawn",
+  "hex": "#D2691E",
+  "rgb": {
+    "red": "210",
+    "green": "105",
+    "blue": "30"
+  }
+}, {
+  "name": "SaddleBrown",
+  "tone": "brawn",
+  "hex": "#8B4513",
+  "rgb": {
+    "red": "139",
+    "green": "69",
+    "blue": "19"
+  }
+}, {
+  "name": "Sienna",
+  "tone": "brawn",
+  "hex": "#A0522D",
+  "rgb": {
+    "red": "160",
+    "green": "82",
+    "blue": "45"
+  }
+}, {
+  "name": "Brown",
+  "tone": "brawn",
+  "hex": "#A52A2A",
+  "rgb": {
+    "red": "165",
+    "green": "42",
+    "blue": "42"
+  }
+}, {
+  "name": "Maroon",
+  "tone": "brawn",
+  "hex": "#800000",
+  "rgb": {
+    "red": "128",
+    "green": "0",
+    "blue": "0"
+  }
+}, {
+  "name": "GreenYellow",
+  "tone": "green",
+  "hex": "#ADFF2F",
+  "rgb": {
+    "red": "173",
+    "green": "255",
+    "blue": "47"
+  }
+}, {
+  "name": "Chartreuse",
+  "tone": "green",
+  "hex": "#7FFF00",
+  "rgb": {
+    "red": "127",
+    "green": "255",
+    "blue": "0"
+  }
+}, {
+  "name": "LawnGreen",
+  "tone": "green",
+  "hex": "#7CFC00",
+  "rgb": {
+    "red": "124",
+    "green": "252",
+    "blue": "0"
+  }
+}, {
+  "name": "Lime",
+  "tone": "green",
+  "hex": "#00FF00",
+  "rgb": {
+    "red": "0",
+    "green": "255",
+    "blue": "0"
+  }
+}, {
+  "name": "LimeGreen",
+  "tone": "green",
+  "hex": "#32CD32",
+  "rgb": {
+    "red": "50",
+    "green": "205",
+    "blue": "50"
+  }
+}, {
+  "name": "PaleGreen",
+  "tone": "green",
+  "hex": "#98FB98",
+  "rgb": {
+    "red": "152",
+    "green": "251",
+    "blue": "152"
+  }
+}, {
+  "name": "LightGreen",
+  "tone": "green",
+  "hex": "#90EE90",
+  "rgb": {
+    "red": "144",
+    "green": "238",
+    "blue": "144"
+  }
+}, {
+  "name": "MediumSpringGreen",
+  "tone": "green",
+  "hex": "#00FA9A",
+  "rgb": {
+    "red": "0",
+    "green": "250",
+    "blue": "154"
+  }
+}, {
+  "name": "SpringGreen",
+  "tone": "green",
+  "hex": "#00FF7F",
+  "rgb": {
+    "red": "0",
+    "green": "255",
+    "blue": "127"
+  }
+}, {
+  "name": "MediumSeaGreen",
+  "tone": "green",
+  "hex": "#3CB371",
+  "rgb": {
+    "red": "60",
+    "green": "179",
+    "blue": "113"
+  }
+}, {
+  "name": "SeaGreen",
+  "tone": "green",
+  "hex": "#2E8B57",
+  "rgb": {
+    "red": "46",
+    "green": "139",
+    "blue": "87"
+  }
+}, {
+  "name": "ForestGreen",
+  "tone": "green",
+  "hex": "#228B22",
+  "rgb": {
+    "red": "34",
+    "green": "139",
+    "blue": "34"
+  }
+}, {
+  "name": "Green",
+  "tone": "green",
+  "hex": "#008000",
+  "rgb": {
+    "red": "0",
+    "green": "128",
+    "blue": "0"
+  }
+}, {
+  "name": "DarkGreen",
+  "tone": "green",
+  "hex": "#006400",
+  "rgb": {
+    "red": "0",
+    "green": "100",
+    "blue": "0"
+  }
+}, {
+  "name": "YellowGreen",
+  "tone": "green",
+  "hex": "#9ACD32",
+  "rgb": {
+    "red": "154",
+    "green": "205",
+    "blue": "50"
+  }
+}, {
+  "name": "OliveDrab",
+  "tone": "green",
+  "hex": "#6B8E23",
+  "rgb": {
+    "red": "107",
+    "green": "142",
+    "blue": "35"
+  }
+}, {
+  "name": "Olive",
+  "tone": "green",
+  "hex": "#808000",
+  "rgb": {
+    "red": "128",
+    "green": "128",
+    "blue": "0"
+  }
+}, {
+  "name": "DarkOliveGreen",
+  "tone": "green",
+  "hex": "#556B2F",
+  "rgb": {
+    "red": "85",
+    "green": "107",
+    "blue": "47"
+  }
+}, {
+  "name": "MediumAquamarine",
+  "tone": "green",
+  "hex": "#66CDAA",
+  "rgb": {
+    "red": "102",
+    "green": "205",
+    "blue": "170"
+  }
+}, {
+  "name": "DarkSeaGreen",
+  "tone": "green",
+  "hex": "#8FBC8F",
+  "rgb": {
+    "red": "143",
+    "green": "188",
+    "blue": "143"
+  }
+}, {
+  "name": "LightSeaGreen",
+  "tone": "green",
+  "hex": "#20B2AA",
+  "rgb": {
+    "red": "32",
+    "green": "178",
+    "blue": "170"
+  }
+}, {
+  "name": "DarkCyan",
+  "tone": "green",
+  "hex": "#008B8B",
+  "rgb": {
+    "red": "0",
+    "green": "139",
+    "blue": "139"
+  }
+}, {
+  "name": "Teal",
+  "tone": "green",
+  "hex": "#008080",
+  "rgb": {
+    "red": "0",
+    "green": "128",
+    "blue": "128"
+  }
+}, {
+  "name": "Aqua",
+  "tone": "blue",
+  "hex": "#00FFFF",
+  "rgb": {
+    "red": "0",
+    "green": "255",
+    "blue": "255"
+  }
+}, {
+  "name": "Cyan",
+  "tone": "blue",
+  "hex": "#00FFFF",
+  "rgb": {
+    "red": "0",
+    "green": "255",
+    "blue": "255"
+  }
+}, {
+  "name": "LightCyan",
+  "tone": "blue",
+  "hex": "#E0FFFF",
+  "rgb": {
+    "red": "224",
+    "green": "255",
+    "blue": "255"
+  }
+}, {
+  "name": "PaleTurquoise",
+  "tone": "blue",
+  "hex": "#AFEEEE",
+  "rgb": {
+    "red": "175",
+    "green": "238",
+    "blue": "238"
+  }
+}, {
+  "name": "Aquamarine",
+  "tone": "blue",
+  "hex": "#7FFFD4",
+  "rgb": {
+    "red": "127",
+    "green": "255",
+    "blue": "212"
+  }
+}, {
+  "name": "Turquoise",
+  "tone": "blue",
+  "hex": "#40E0D0",
+  "rgb": {
+    "red": "64",
+    "green": "224",
+    "blue": "208"
+  }
+}, {
+  "name": "MediumTurquoise",
+  "tone": "blue",
+  "hex": "#48D1CC",
+  "rgb": {
+    "red": "72",
+    "green": "209",
+    "blue": "204"
+  }
+}, {
+  "name": "DarkTurquoise",
+  "tone": "blue",
+  "hex": "#00CED1",
+  "rgb": {
+    "red": "0",
+    "green": "206",
+    "blue": "209"
+  }
+}, {
+  "name": "CadetBlue",
+  "tone": "blue",
+  "hex": "#5F9EA0",
+  "rgb": {
+    "red": "95",
+    "green": "158",
+    "blue": "160"
+  }
+}, {
+  "name": "SteelBlue",
+  "tone": "blue",
+  "hex": "#4682B4",
+  "rgb": {
+    "red": "70",
+    "green": "130",
+    "blue": "180"
+  }
+}, {
+  "name": "LightSteelBlue",
+  "tone": "blue",
+  "hex": "#B0C4DE",
+  "rgb": {
+    "red": "176",
+    "green": "196",
+    "blue": "222"
+  }
+}, {
+  "name": "PowderBlue",
+  "tone": "blue",
+  "hex": "#B0E0E6",
+  "rgb": {
+    "red": "176",
+    "green": "224",
+    "blue": "230"
+  }
+}, {
+  "name": "LightBlue",
+  "tone": "blue",
+  "hex": "#ADD8E6",
+  "rgb": {
+    "red": "173",
+    "green": "216",
+    "blue": "230"
+  }
+}, {
+  "name": "SkyBlue#87CEEB",
+  "tone": "blue",
+  "hex": "",
+  "rgb": {
+    "red": "135",
+    "green": "206",
+    "blue": "235"
+  }
+}, {
+  "name": "LightSkyBlue",
+  "tone": "blue",
+  "hex": "#87CEFA",
+  "rgb": {
+    "red": "135",
+    "green": "206",
+    "blue": "250"
+  }
+}, {
+  "name": "DeepSkyBlue",
+  "tone": "blue",
+  "hex": "#00BFFF",
+  "rgb": {
+    "red": "0",
+    "green": "191",
+    "blue": "255"
+  }
+}, {
+  "name": "DodgerBlue",
+  "tone": "blue",
+  "hex": "#1E90FF",
+  "rgb": {
+    "red": "30",
+    "green": "144",
+    "blue": "255"
+  }
+}, {
+  "name": "CornflowerBlue",
+  "tone": "blue",
+  "hex": "#6495ED",
+  "rgb": {
+    "red": "100",
+    "green": "149",
+    "blue": "237"
+  }
+}, {
+  "name": "MediumSlateBlue",
+  "tone": "blue",
+  "hex": "#7B68EE",
+  "rgb": {
+    "red": "123",
+    "green": "104",
+    "blue": "238"
+  }
+}, {
+  "name": "RoyalBlue",
+  "tone": "blue",
+  "hex": "#4169E1",
+  "rgb": {
+    "red": "65",
+    "green": "105",
+    "blue": "225"
+  }
+}, {
+  "name": "Blue",
+  "tone": "blue",
+  "hex": "#0000FF",
+  "rgb": {
+    "red": "0",
+    "green": "0",
+    "blue": "255"
+  }
+}, {
+  "name": "MediumBlue",
+  "tone": "blue",
+  "hex": "#0000CD",
+  "rgb": {
+    "red": "0",
+    "green": "0",
+    "blue": "205"
+  }
+}, {
+  "name": "DarkBlue",
+  "tone": "blue",
+  "hex": "#00008B",
+  "rgb": {
+    "red": "0",
+    "green": "0",
+    "blue": "139"
+  }
+}, {
+  "name": "Navy",
+  "tone": "blue",
+  "hex": "#000080",
+  "rgb": {
+    "red": "0",
+    "green": "0",
+    "blue": "128"
+  }
+}, {
+  "name": "MidnightBlue",
+  "tone": "blue",
+  "hex": "#191970",
+  "rgb": {
+    "red": "25",
+    "green": "25",
+    "blue": "112"
+  }
+}, {
+  "name": "White",
+  "tone": "white",
+  "hex": "#FFFFFF",
+  "rgb": {
+    "red": "255",
+    "green": "255",
+    "blue": "255"
+  }
+}, {
+  "name": "Snow",
+  "tone": "white",
+  "hex": "#FFFAFA",
+  "rgb": {
+    "red": "255",
+    "green": "250",
+    "blue": "250"
+  }
+}, {
+  "name": "Honeydew",
+  "tone": "white",
+  "hex": "#F0FFF0",
+  "rgb": {
+    "red": "240",
+    "green": "255",
+    "blue": "240"
+  }
+}, {
+  "name": "MintCream",
+  "tone": "white",
+  "hex": "#F5FFFA",
+  "rgb": {
+    "red": "245",
+    "green": "255",
+    "blue": "250"
+  }
+}, {
+  "name": "Azure",
+  "tone": "white",
+  "hex": "#F0FFFF",
+  "rgb": {
+    "red": "240",
+    "green": "255",
+    "blue": "255"
+  }
+}, {
+  "name": "AliceBlue",
+  "tone": "white",
+  "hex": "#F0F8FF",
+  "rgb": {
+    "red": "240",
+    "green": "248",
+    "blue": "255"
+  }
+}, {
+  "name": "GhostWhite",
+  "tone": "white",
+  "hex": "#F8F8FF",
+  "rgb": {
+    "red": "248",
+    "green": "248",
+    "blue": "255"
+  }
+}, {
+  "name": "WhiteSmoke",
+  "tone": "white",
+  "hex": "#F5F5F5",
+  "rgb": {
+    "red": "245",
+    "green": "245",
+    "blue": "245"
+  }
+}, {
+  "name": "Seashell",
+  "tone": "white",
+  "hex": "#FFF5EE",
+  "rgb": {
+    "red": "255",
+    "green": "245",
+    "blue": "238"
+  }
+}, {
+  "name": "Beige",
+  "tone": "white",
+  "hex": "#F5F5DC",
+  "rgb": {
+    "red": "245",
+    "green": "245",
+    "blue": "220"
+  }
+}, {
+  "name": "OldLace",
+  "tone": "white",
+  "hex": "#FDF5E6",
+  "rgb": {
+    "red": "253",
+    "green": "245",
+    "blue": "230"
+  }
+}, {
+  "name": "FloralWhite",
+  "tone": "white",
+  "hex": "#FFFAF0",
+  "rgb": {
+    "red": "255",
+    "green": "250",
+    "blue": "240"
+  }
+}, {
+  "name": "Ivory",
+  "tone": "white",
+  "hex": "#FFFFF0",
+  "rgb": {
+    "red": "255",
+    "green": "255",
+    "blue": "240"
+  }
+}, {
+  "name": "AntiqueWhite",
+  "tone": "white",
+  "hex": "#FAEBD7",
+  "rgb": {
+    "red": "250",
+    "green": "235",
+    "blue": "215"
+  }
+}, {
+  "name": "Linen",
+  "tone": "white",
+  "hex": "#FAF0E6",
+  "rgb": {
+    "red": "250",
+    "green": "240",
+    "blue": "230"
+  }
+}, {
+  "name": "LavenderBlush",
+  "tone": "white",
+  "hex": "#FFF0F5",
+  "rgb": {
+    "red": "255",
+    "green": "240",
+    "blue": "245"
+  }
+}, {
+  "name": "MistyRose",
+  "tone": "white",
+  "hex": "#FFE4E1",
+  "rgb": {
+    "red": "255",
+    "green": "228",
+    "blue": "225"
+  }
+}, {
+  "name": "Gainsboro",
+  "tone": "grey",
+  "hex": "#DCDCDC",
+  "rgb": {
+    "red": "220",
+    "green": "220",
+    "blue": "220"
+  }
+}, {
+  "name": "LightGrey",
+  "tone": "grey",
+  "hex": "#D3D3D3",
+  "rgb": {
+    "red": "211",
+    "green": "211",
+    "blue": "211"
+  }
+}, {
+  "name": "LightGray",
+  "tone": "grey",
+  "hex": "#D3D3D3",
+  "rgb": {
+    "red": "211",
+    "green": "211",
+    "blue": "211"
+  }
+}, {
+  "name": "Silver",
+  "tone": "grey",
+  "hex": "#C0C0C0",
+  "rgb": {
+    "red": "192",
+    "green": "192",
+    "blue": "192"
+  }
+}, {
+  "name": "DarkGray",
+  "tone": "grey",
+  "hex": "#A9A9A9",
+  "rgb": {
+    "red": "169",
+    "green": "169",
+    "blue": "169"
+  }
+}, {
+  "name": "DarkGrey",
+  "tone": "grey",
+  "hex": "#A9A9A9",
+  "rgb": {
+    "red": "169",
+    "green": "169",
+    "blue": "169"
+  }
+}, {
+  "name": "Gray",
+  "tone": "grey",
+  "hex": "#808080",
+  "rgb": {
+    "red": "128",
+    "green": "128",
+    "blue": "128"
+  }
+}, {
+  "name": "Grey",
+  "tone": "grey",
+  "hex": "#808080",
+  "rgb": {
+    "red": "128",
+    "green": "128",
+    "blue": "128"
+  }
+}, {
+  "name": "DimGray",
+  "tone": "grey",
+  "hex": "#696969",
+  "rgb": {
+    "red": "105",
+    "green": "105",
+    "blue": "105"
+  }
+}, {
+  "name": "DimGrey",
+  "tone": "grey",
+  "hex": "#696969",
+  "rgb": {
+    "red": "105",
+    "green": "105",
+    "blue": "105"
+  }
+}, {
+  "name": "LightSlateGray",
+  "tone": "grey",
+  "hex": "#778899",
+  "rgb": {
+    "red": "119",
+    "green": "136",
+    "blue": "153"
+  }
+}, {
+  "name": "LightSlateGrey",
+  "tone": "grey",
+  "hex": "#778899",
+  "rgb": {
+    "red": "119",
+    "green": "136",
+    "blue": "153"
+  }
+}, {
+  "name": "SlateGray",
+  "tone": "grey",
+  "hex": "#708090",
+  "rgb": {
+    "red": "112",
+    "green": "128",
+    "blue": "144"
+  }
+}, {
+  "name": "SlateGrey",
+  "tone": "grey",
+  "hex": "#708090",
+  "rgb": {
+    "red": "112",
+    "green": "128",
+    "blue": "144"
+  }
+}, {
+  "name": "DarkSlateGray",
+  "tone": "grey",
+  "hex": "#2F4F4F",
+  "rgb": {
+    "red": "47",
+    "green": "79",
+    "blue": "79"
+  }
+}, {
+  "name": "DarkSlateGrey",
+  "tone": "grey",
+  "hex": "#2F4F4F",
+  "rgb": {
+    "red": "47",
+    "green": "79",
+    "blue": "79"
+  }
+}
+]

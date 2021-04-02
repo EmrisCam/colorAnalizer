@@ -1,0 +1,19 @@
+{
+    "name": "emris/color_analizer",
+    "description": "information about the colors of the image to get the dominant colors",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Balakin Aleksander",
+            "email": "emriscam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "emris\\color_analizer\\": "src/"
+        }
+    }
+}
