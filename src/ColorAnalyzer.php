@@ -10,6 +10,8 @@ class ColorAnalyzer
     private static $image_pixel_data;
     private static $_pixel_step = 1;
 
+    /**
+     */
     public static function analyze($file_path, $count_colors)
     {
         self::loadPallete();
@@ -142,6 +144,7 @@ class ColorAnalyzer
                 break;
             default:
                 self::$errors = ['Не удалось получитьданный изобрадения'];
+
                 return false;
         }
     }
