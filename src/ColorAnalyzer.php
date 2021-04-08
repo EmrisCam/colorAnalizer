@@ -143,7 +143,7 @@ class ColorAnalyzer
                 return imagecreatefrombmp($file_path);
                 break;
             default:
-                self::$errors = ['Не удалось получитьданный изобрадения'];
+                self::$errors = ['Не удалось получить данные изображения'];
 
                 return false;
         }
